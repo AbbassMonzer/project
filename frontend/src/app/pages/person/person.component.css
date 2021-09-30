@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+td {
+  width: 25%;
+}
+
+.clients{
+  margin-bottom:20px;
+  position: relative;
+  min-height: 200px;
+  max-height: 400px;
+  overflow: auto;
+}
